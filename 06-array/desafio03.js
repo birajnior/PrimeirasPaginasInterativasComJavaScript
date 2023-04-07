@@ -6,5 +6,5 @@ for (let i = 0; i < nomes.length; i++) {
   const nome = nomes[i];
   if (!nome.indexOf("V")) {
     console.log(nome);
-  }  
+  }
 }
